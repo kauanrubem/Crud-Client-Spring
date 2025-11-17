@@ -1,0 +1,10 @@
+INSERT INTO tb_clients(name, email, phone, address) VALUES('Kauan Rubem 1', 'kauanrubem1@example.com', '1234567890', 'Rua A, 123');
+INSERT INTO tb_clients(name, email, phone, address) VALUES('Kauan Rubem 2', 'kauanrubem2@example.com', '1234567891', 'Rua A, 123');
+INSERT INTO tb_clients(name, email, phone, address) VALUES('Kauan Rubem 3', 'kauanrubem3@example.com', '1234567892', 'Rua A, 123');
+INSERT INTO tb_clients(name, email, phone, address) VALUES('Kauan Rubem 4', 'kauanrubem4@example.com', '1234567893', 'Rua A, 123');
+INSERT INTO tb_clients(name, email, phone, address) VALUES('Kauan Rubem 5', 'kauanrubem5@example.com', '1234567894', 'Rua A, 123');
+INSERT INTO tb_clients(name, email, phone, address) VALUES('Kauan Rubem 6', 'kauanrubem6@example.com', '1234567895', 'Rua A, 123');
+INSERT INTO tb_clients(name, email, phone, address) VALUES('Kauan Rubem 7', 'kauanrubem7@example.com', '1234567896', 'Rua A, 123');
+INSERT INTO tb_clients(name, email, phone, address) VALUES('Kauan Rubem 8', 'kauanrubem8@example.com', '1234567897', 'Rua A, 123');
+INSERT INTO tb_clients(name, email, phone, address) VALUES('Kauan Rubem 9', 'kauanrubem9@example.com', '1234567898', 'Rua A, 123');
+INSERT INTO tb_clients(name, email, phone, address) VALUES('Kauan Rubem 10', 'kauanrubem10@example.com', '1234567899', 'Rua A, 123');
